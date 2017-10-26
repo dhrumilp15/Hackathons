@@ -12,11 +12,11 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://arthrowfighter.firebaseio.com/'
 })
 
-#initializing ref
+#initializing ref - Which object is being considered
 ref = db.reference('room')
-
+#Where to get the serial output from Arduino
 ser = serial.Serial('COM15', baudrate = 9600, timeout=1)
-
+#Always do this; turn serial output from Arduino into Serial input for Python
 while 1:
 		arduinoData = ser.readline().rstrip().decode('ascii')
 		print(arduinoData)

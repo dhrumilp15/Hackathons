@@ -1,3 +1,4 @@
+#With this code, it's now much easier to update a firbease database from the arduino
 import serial
 import string
 import firebase_admin

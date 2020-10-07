@@ -1,6 +1,6 @@
 # Hackathon Projects
 
-Thanks for looking at some of my first hackathon projects! As my ideas (and expectations) for my hacks evolve, so did their storage space! I've made repositories for each hackathon project, so check them out on my main page [dhrumilp15](https://github.com/dhrumilp15)!
+Thanks for looking at some of my first hackathon projects! As my ideas (and expectations) for my hacks evolved, so did their storage space! I've made repositories for each hackathon project, so check them out on my main page [dhrumilp15](https://github.com/dhrumilp15)!
 
 (THacks 2)firebase-connection.py : Opens an input channel for the serial output of an Arduino and uploads it to a firebase database. (Interfacing an arudino and a firebase database)
 

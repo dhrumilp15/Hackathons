@@ -1,6 +1,8 @@
 # Hackathon Projects
 
-Thanks for looking at some of my first hackathon projects! As my ideas (and expectations) for my hacks evolved, so did their storage space! I've made repositories for each hackathon project, so check them out on my main page [dhrumilp15](https://github.com/dhrumilp15)!
+Thanks for looking at some of my first hackathon projects! As my ideas (and expectations) for my hacks evolved, so did their complexity! I've made repositories for each hackathon project, so check them out on my main page [dhrumilp15](https://github.com/dhrumilp15)!
+
+:sparkling_heart: These were my _very_ first software projects and it means a lot to me that you looked at them :sparkling_heart:
 
 (THacks 2)
 My team built a glove to help arthritis patients exercise their joints in a game. I interfaced the arduino and the firebase database
